@@ -46,13 +46,6 @@ It highlights sales trends, expansion rates, and market share, providing actiona
 
 ---
 
-## 🚀 Future Enhancements
-- Integrate **profitability metrics** alongside sales performance.
-- Add **trend forecasting** to project market share changes.
-- Include **customer review sentiment analysis** for qualitative insights.
-
----
-
 💡 **Author:** Adegbola Ayeni  
 📧 Contact: ayeniadegbolaelijah@gmail.com  
 🌐 Portfolio: https://github.com/adegbolaayeni
