@@ -53,6 +53,6 @@ It highlights sales trends, expansion rates, and market share, providing actiona
 
 ---
 
-💡 **Author:** Lekan  
-📧 Contact: your.email@example.com  
-🌐 Portfolio: [Your Website or LinkedIn](#)
+💡 **Author:** Adegbola Ayeni  
+📧 Contact: ayeniadegbolaelijah@gmail.com  
+🌐 Portfolio: https://github.com/adegbolaayeni
